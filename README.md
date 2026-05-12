@@ -1,28 +1,30 @@
-# Will-You-Be-Mine
 <div align="center">
 
-# 💖 MY HEART'S REPOSITORY 💖
+# 💖 A Special Message For You 💖
 
-<!-- Profile Photo or Romantic Image -->
-<img vecteezy_proposal-pose-silhouette-of-boy-and-girl-in-love-for_54051230.jpg />
+<img src="59024.jpg" width="400" alt="Proposal Illustration" style="border-radius: 20px;">
 
-### "Code-la errors irukkalam, aana nammo love eppavum error-free!" 
-
----
-
-## My Question to You... 🌹
+## "Ennoda ella 'Commit'um unakku dhaan... ❤️"
 
 <br>
 
-<!-- Button Design -->
-<a href="https://wa.me/YOUR_PHONE_NUMBER?text=YES!%20I%20LOVE%20YOU%20TOO!">
-  <img src="https://img.shields.io/badge/YES!-2ea44f?style=for-the-badge&logo=heart&logoColor=white" height="50">
+> Coding-la logic irukkalam, aana nammo love-la magic irukku.
+> Inimay en life-oda ella code-aiyum un kooda sendhu dhaan ezhudhanum nu aasai padurain.
+
+<br>
+
+### Will you be the 'Main Branch' of my life? 💍
+
+<br>
+
+<a href="https://wa.me/94786049600?text=I%20accept%20your%20pull%20request!%20YES%20❤️">
+  <img src="https://img.shields.io/badge/YES!-2ea44f?style=for-the-badge&logo=whatsapp&logoColor=white" height="50">
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://wa.me/YOUR_PHONE_NUMBER?text=Thinking...%20Give%20me%20more%20treats!">
-  <img src="https://img.shields.io/badge/MAYBE-ffcc00?style=for-the-badge&logo=stars&logoColor=black" height="50">
+<a href="https://wa.me/94786049600?text=Wait...%20I%20need%20a%20treat%20first!%20😋">
+  <img src="https://img.shields.io/badge/MAYBE-ffcc00?style=for-the-badge&logo=heart&logoColor=black" height="50">
 </a>
 
 <br>
@@ -30,13 +32,13 @@
 
 ---
 
-### Why I Love You:
-| Feature | Status |
-| :--- | :--- |
-| **Loyalty** | 100% |
-| **Care** | Infinite |
-| **Love** | Critical Success |
+### Why we are the best 'Match':
+| My Love | Your Smile | Result |
+| :--- | :--- | :--- |
+| `Infinite` | `Gorgeous` | `Perfect Connection` |
 
 ---
+
+*Made with ❤️ by Someone who truly cares*
 
 </div>
