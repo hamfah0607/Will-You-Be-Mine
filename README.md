@@ -1,8 +1,12 @@
 <div align="center">
 
-# 💖 A Special Message For You 💖
+# 💌 YOU HAVE A PRIVATE MESSAGE 💌
 
-<img src="vecteezy_proposal-pose-silhouette-of-boy-and-girl-in-love-for_54051230.jpg" width="420" alt="Proposal Illustration" style="border-radius: 25px; border: 2px solid #ff4d4d;">
+<details>
+<summary><b>A letter to you with love.... (Click here 👆)</b></summary>
+<br>
+
+<img src="59024.jpg" width="420" alt="Proposal Illustration" style="border-radius: 25px; border: 2px solid #ff4d4d;">
 
 ## "My FAHMA is the only one in my life." 🌹
 
@@ -38,4 +42,7 @@
 
 ---
 *FOR YOUR FUTURE ENGINEER*
+
+</details>
+
 </div>
