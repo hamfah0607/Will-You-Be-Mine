@@ -6,7 +6,7 @@
 <summary><b>A letter to you with love.... (Click here 👆)</b></summary>
 <br>
 
-<img src="59024.jpg" width="420" alt="Proposal Illustration" style="border-radius: 25px; border: 2px solid #ff4d4d;">
+<img src="vecteezy_proposal-pose-silhouette-of-boy-and-girl-in-love-for_54051230.jpg" width="420" alt="Proposal Illustration" style="border-radius: 25px; border: 2px solid #ff4d4d;">
 
 ## "My FAHMA is the only one in my life." 🌹
 
@@ -19,7 +19,7 @@
 > ### காயம் வந்தாலும் கை கோர்க்க தவறாது...🤝
 > 
 > ### என் உயிர் போகும் பாதையில் உன் வாசம் வேண்டுமே... ❤️
-> ### உன் மடி சாயும் கணத்தில் என் உலகம் தோற்கும் .... 🌎
+> ### உன் மடி சாயும் கணத்தில் என் உலகம் தோற்குமே .... 🌎
 
 <br>
 
